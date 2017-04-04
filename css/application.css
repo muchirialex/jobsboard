@@ -1,0 +1,15 @@
+/*red color*/
+/*yellow color*/
+/*blue color*/
+/*purple color*/
+body {
+  font-family: "Raleway", sans-serif; }
+
+.border {
+  border: 0;
+  height: 6px;
+  background-color: #fd7473;
+  background-image: linear-gradient(to right, #fd7473, #fd7473 25%, #f3c951 25%, #f3c951 50%, #47b8e0 50%, #47b8e0 75%, #9f68d0 75%, #9f68d0 100%, #9f68d0 100%);
+  -webkit-background-size: 50% 100%;
+  -moz-background-size: 50% 100%;
+  background-size: 50% 100%; }
