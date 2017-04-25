@@ -54,3 +54,19 @@ body {
   .main_nav .current {
     font-weight: 700;
     color: #34314c; }
+
+.main-footer {
+  padding: 1.5em 5%;
+  border-top: 1px solid #d9dee9; }
+  .main-footer .copyright {
+    float: left;
+    font-size: .9em;
+    margin: 0; }
+  .main-footer nav {
+    float: right; }
+    .main-footer nav i {
+      color: #34314c;
+      margin-left: 1em;
+      padding-top: .2em; }
+      .main-footer nav i:hover {
+        color: #47b8e0; }
